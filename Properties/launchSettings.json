@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "azure_iot_connection": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7117",
+      "launchBrowser": false
+    }
+  }
+}
